@@ -16,8 +16,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,java,py,flutter)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,nodejs,postgres)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,java,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=flutter,php,laravel,nodejs,postgres)](https://skills.thijs.gg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
