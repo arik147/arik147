@@ -1,5 +1,7 @@
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Welcome!</h1>
+<h1>
+  Welcome
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!-- ## 👋 &nbsp;Hello! -->
 
@@ -13,20 +15,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=node.js)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=node.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c,java,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,nodejs,postgres)](https://skills.thijs.gg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="start">
 <a href="https://github.com/arik147">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arik147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arik147&layout=compact&langs_count=8&theme=algolia"/>
