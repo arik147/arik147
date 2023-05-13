@@ -1,14 +1,14 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fadhil</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! It is me Arik</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Fadhil -->
+<!-- ## 👋 &nbsp;Hello! It is me Arik -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science at the Universitas Pendidikan Indonesia.\
 🌱 &nbsp;I'm on track for learning more about Cloud Computing, Mobile Aplication and Computer Networking.\
-✉️ &nbsp;You can reach me an email at fadhilanugrah21@gmail.com!.
+✉️ &nbsp;You can reach me an email at arikrizkiakbar@gmail.com!.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
