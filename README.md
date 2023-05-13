@@ -5,8 +5,8 @@
 
 ### &nbsp;About Me
 
-🎓 &nbsp;I'm Computer Science Student at the Universitas Pendidikan Indonesia.\
-🌱 &nbsp;I'm currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
+🎓 &nbsp;I am Computer Science Student at the Universitas Pendidikan Indonesia.\
+🌱 &nbsp;I am currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
 ✉️ &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
