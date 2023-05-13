@@ -7,11 +7,12 @@
 
 ### &nbsp;About Me
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 🎓 &nbsp;I am Computer Science Student at Universitas Pendidikan Indonesia.\
 🌱 &nbsp;I am currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
 ✉️ &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
