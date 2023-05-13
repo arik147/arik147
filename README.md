@@ -1,13 +1,13 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hello! It is me Arik</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h1>Hello</h1>
 
 <!-- ## 👋 &nbsp;Hello! -->
 
 ### &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science at the Universitas Pendidikan Indonesia.\
-🌱 &nbsp;I'm on track for learning more about Cloud Computing, Mobile Aplication and Computer Networking.\
-✉️ &nbsp;You can reach me an email at arikrizkiakbar@gmail.com!
+🎓 &nbsp;I'm Computer Science Student at the Universitas Pendidikan Indonesia.\
+🌱 &nbsp;I'm currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
+✉️ &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -27,11 +27,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Gonken-GN">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gonken-GN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gonken-GN&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/arik147">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arik147&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arik147&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 -----
 
-Last Edited on: 13/12/2022
+Last Edited on: 13 Mei 2023
