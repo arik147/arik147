@@ -7,7 +7,7 @@
 
 ### &nbsp;About Me
 
-🎓 &nbsp;I am Computer Science Student at the Universitas Pendidikan Indonesia.\
+🎓 &nbsp;I am Computer Science Student at Universitas Pendidikan Indonesia.\
 🌱 &nbsp;I am currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
 ✉️ &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
