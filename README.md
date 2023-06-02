@@ -28,6 +28,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arik147&layout=compact&langs_count=9&theme=algolia"/>
 </a>
 </p>
------
 
 <div><img width="80%" src="https://media.tenor.com/IBN94gddDmUAAAAC/yoru-valorant.gif"/></div>
