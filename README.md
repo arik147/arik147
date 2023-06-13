@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome!!!
-  <img src="https://media.tenor.com/D3l0ki6Xl9cAAAAi/shocked-killjoy.gif" width="100px"/>
+<!--   <img src="https://media.tenor.com/D3l0ki6Xl9cAAAAi/shocked-killjoy.gif" width="100px"/> -->
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=I+am+Arik+Rizki+Akbar!;a+Software+Engineer)](https://git.io/typing-svg)
@@ -29,4 +29,4 @@
 </a>
 </p>
 
-<div><img width="80%" src="https://media.tenor.com/IBN94gddDmUAAAAC/yoru-valorant.gif"/></div>
+<!-- <div><img width="80%" src="https://media.tenor.com/IBN94gddDmUAAAAC/yoru-valorant.gif"/></div> -->
