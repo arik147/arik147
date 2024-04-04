@@ -1,16 +1,12 @@
 <h1 align="center">
-  Welcome!!!
+  Arik Rizki Akbar
 <!--   <img src="https://media.tenor.com/D3l0ki6Xl9cAAAAi/shocked-killjoy.gif" width="100px"/> -->
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=I+am+Arik+Rizki+Akbar!;a+Software+Engineer)](https://git.io/typing-svg)
-
-<img alt="Night Coding" src="https://media.tenor.com/KyuAgnD3t1QAAAAC/valorant-cypher.gif" align="right"  width="50%" marginLeft="2em"/>
-
-🎓 &nbsp;I am Computer Science Student at Universitas Pendidikan Indonesia.\
-🌱 &nbsp;I am currently studying Cloud Computing in Bangkit Academy 2023 Batch 1.\
-🖥️ &nbsp;See my portfolio at http://itsarikra.me/ .\
-✉️ &nbsp;You can reach me at arikrizkiakbar@gmail.com!
+&nbsp;Computer Science Student at Universitas Pendidikan Indonesia.\
+&nbsp;Graduated Cloud Computing Bangkit Academy 2023 Batch 1.\
+&nbsp;See my portfolio at http://itsarikra.me/ .\
+&nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
 
 ### 🛠 &nbsp;Tech Stack
