@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="start">
   Arik Rizki Akbar
 <!--   <img src="https://media.tenor.com/D3l0ki6Xl9cAAAAi/shocked-killjoy.gif" width="100px"/> -->
 </h1>
@@ -8,7 +8,7 @@
 &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="start">
 <a href="https://github.com/arik147">
