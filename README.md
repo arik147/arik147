@@ -5,7 +5,6 @@
 
 &nbsp;Computer Science Student at Universitas Pendidikan Indonesia.\
 &nbsp;Graduated Cloud Computing Bangkit Academy 2023 Batch 1.\
-&nbsp;See my portfolio at http://itsarikra.me/ .\
 &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
 
