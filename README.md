@@ -3,7 +3,7 @@
 <!--   <img src="https://media.tenor.com/D3l0ki6Xl9cAAAAi/shocked-killjoy.gif" width="100px"/> -->
 </h1>
 
-&nbsp;Computer Science Student at Universitas Pendidikan Indonesia.\
+&nbsp;Bachelor of Computer Science at Universitas Pendidikan Indonesia.\
 &nbsp;Graduated Cloud Computing Bangkit Academy 2023 Batch 1.\
 &nbsp;You can reach me at arikrizkiakbar@gmail.com!
 
